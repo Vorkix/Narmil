@@ -22,5 +22,11 @@ There's gonna be a source code to make Narmil a game free to edit whit your own 
 Narmil can be released in May 24 2023.
 **(ITS NOT AN OFFICIAL RELEASE DATE)**
 
+#  Is Narmil Gonna be in Android?
 
+50% No 50% Yes, Make games to mobile its not easy, because optimization and other things
+
+# And for Apple Devices 
+
+No. Its not that easy to make Games For Apple Devices
 
