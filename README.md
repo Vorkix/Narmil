@@ -1,5 +1,5 @@
 # Narmil Sneak Peeks 
 
-Narmil is gonna have little Sneak Peeks before any update or release 
+## Here are gonna be some Sneak Peeks Of the game like new areas players things and more
 
 
