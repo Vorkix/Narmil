@@ -1,5 +1,5 @@
 # Narmil
-Narmil Is A 3D game where you are in a street close to an abandoned factory
+Narmil Is A 3D Online game where you are in a street close to an abandoned factory
 And you need to investigate what happened a long time in the factory before it gets burn
  
 # Programs To Make The Game
