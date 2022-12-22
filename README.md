@@ -4,7 +4,7 @@ And you need to investigate what happened a long time in the factory before it g
  
 # Programs To Make The Game
 
-Narmil Uses **Unreal Engine 4.20.3**
+Narmil Uses **Unity**
 
 For Models Uses **Blender** And **Prisma3D**
 
@@ -15,7 +15,7 @@ And For animations **Mixamo**
 # Source Code?
 
 There's gonna be a source code to make Narmil a game free to edit whit your own areas gamemodes and more
-(REQUIRES Unreal Engine 4.20.3)
+(REQUIRES Unity)
 
 # When is Narmil gonna be released?
 
