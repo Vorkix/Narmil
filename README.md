@@ -1,6 +1,6 @@
 # Narmil
-Narmil Is A 3D Online game where you are in a street close to an abandoned factory
-And you need to investigate what happened a long time in the factory before it gets burn
+Narmil Is A 3D game where you are a investigator that have visit areas and
+Discover what happened , your first investigetion was on 2008 in a Toy Factory called MakeAToy
  
 # Programs To Make The Game
 
